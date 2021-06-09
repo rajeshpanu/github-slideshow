@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+if you not earn in sleep ,you end up working hard
 Use the left arrow to go back!
